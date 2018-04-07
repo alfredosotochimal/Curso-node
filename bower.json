@@ -1,0 +1,21 @@
+{
+  "name": "curso",
+  "description": "curso node",
+  "main": "app.js",
+  "authors": [
+    "alfredosotochimal <alfredo_sotochimal@hotmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/alfredosotochimal/Curso-node",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.3.1"
+  }
+}
